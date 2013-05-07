@@ -1,0 +1,22 @@
+{
+  "name": "couchpotato",
+  "version": "0.0.1",
+  "description": "Couchpotato is a web UI and front-end for log4j-couchbase appender.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zooldk/couchpotato"
+  },
+  "keywords": [
+    "couchbase",
+    "log4j",
+    "gui"
+  ],
+  "author": "Steffen Larsen",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "3704ff76d08cf9621b588c163e15c9239c9a73d9"
+}
